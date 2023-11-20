@@ -1,0 +1,276 @@
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Javiera\OneDrive\Desktop\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+G:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+G:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+G:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Back_end_c#\Nueva carpeta (2)\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\UNANCH22\Desktop\FirsAppAngular\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Javiera\OneDrive\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Javiera\OneDrive\Desktop\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+F:\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Daniela\Desktop\trabajoDani\trabajo\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

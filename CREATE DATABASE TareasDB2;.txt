@@ -1,0 +1,439 @@
+CREATE DATABASE TareasDB2;
+GO
+USE TareasDB2;
+GO 
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY IDENTITY(1,1),
+    Username NVARCHAR(50) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    Password NVARCHAR(255) NOT NULL
+);
+GO
+CREATE TABLE Projects (
+    ProjectID INT PRIMARY KEY IDENTITY(1,1),
+    ProjectName NVARCHAR(100) NOT NULL,
+    StartDate DATE NOT NULL,
+    EndDate DATE NOT NULL,
+    Status NVARCHAR(20) NOT NULL,
+    CreatorUserID INT FOREIGN KEY REFERENCES Users(UserID) -- Nueva columna para almacenar el creador del proyecto
+);
+GO
+CREATE TABLE Tasks (
+    TaskID INT PRIMARY KEY IDENTITY(1,1),
+    ProjectID INT FOREIGN KEY REFERENCES Projects(ProjectID),
+    Description NVARCHAR(255) NOT NULL,
+    StartDate DATE NOT NULL,
+    EndDate DATE NOT NULL,
+    Status NVARCHAR(20) NOT NULL
+);
+GO
+CREATE TABLE Comments (
+    CommentID INT PRIMARY KEY IDENTITY(1,1),
+    TaskID INT FOREIGN KEY REFERENCES Tasks(TaskID),
+    UserID INT FOREIGN KEY REFERENCES Users(UserID),
+    CommentText NVARCHAR(MAX) NOT NULL,
+    CommentDate DATETIME NOT NULL
+);
+
+GO
+-- Insertar un nuevo usuario
+CREATE PROCEDURE InsertUser
+    @Username NVARCHAR(50),
+    @Email NVARCHAR(100),
+    @Password NVARCHAR(255)
+AS
+BEGIN
+    INSERT INTO Users (Username, Email, Password)
+    VALUES (@Username, @Email, @Password);
+END;
+
+-- Obtener todos los usuarios
+CREATE PROCEDURE GetAllUsers
+AS
+BEGIN
+    SELECT * FROM Users;
+END;
+
+-- Obtener un usuario por ID
+CREATE PROCEDURE GetUserByID
+    @UserID INT
+AS
+BEGIN
+    SELECT * FROM Users WHERE UserID = @UserID;
+END;
+
+-- Actualizar un usuario
+CREATE PROCEDURE UpdateUser
+    @UserID INT,
+    @Username NVARCHAR(50),
+    @Email NVARCHAR(100),
+    @Password NVARCHAR(255)
+AS
+BEGIN
+    UPDATE Users
+    SET
+        Username = @Username,
+        Email = @Email,
+        Password = @Password
+    WHERE UserID = @UserID;
+END;
+
+-- Eliminar un usuario por ID
+CREATE PROCEDURE DeleteUser
+    @UserID INT
+AS
+BEGIN
+    DELETE FROM Users WHERE UserID = @UserID;
+END;
+GO
+
+-- Insertar un nuevo proyecto
+CREATE PROCEDURE InsertProject
+    @ProjectName NVARCHAR(100),
+    @StartDate DATE,
+    @EndDate DATE,
+    @Status NVARCHAR(20),
+    @CreatorUserID INT
+AS
+BEGIN
+    INSERT INTO Projects (ProjectName, StartDate, EndDate, Status, CreatorUserID)
+    VALUES (@ProjectName, @StartDate, @EndDate, @Status, @CreatorUserID);
+END;
+
+-- Obtener todos los proyectos
+CREATE PROCEDURE GetAllProjects
+AS
+BEGIN
+    SELECT * FROM Projects;
+END;
+
+-- Obtener un proyecto por ID
+CREATE PROCEDURE GetProjectByID
+    @ProjectID INT
+AS
+BEGIN
+    SELECT * FROM Projects WHERE ProjectID = @ProjectID;
+END;
+
+-- Actualizar un proyecto
+CREATE PROCEDURE UpdateProject
+    @ProjectID INT,
+    @ProjectName NVARCHAR(100),
+    @StartDate DATE,
+    @EndDate DATE,
+    @Status NVARCHAR(20),
+    @CreatorUserID INT
+AS
+BEGIN
+    UPDATE Projects
+    SET
+        ProjectName = @ProjectName,
+        StartDate = @StartDate,
+        EndDate = @EndDate,
+        Status = @Status,
+        CreatorUserID = @CreatorUserID
+    WHERE ProjectID = @ProjectID;
+END;
+
+-- Eliminar un proyecto por ID
+CREATE PROCEDURE DeleteProject
+    @ProjectID INT
+AS
+BEGIN
+    DELETE FROM Projects WHERE ProjectID = @ProjectID;
+END;
+GO
+
+-- Insertar una nueva tarea
+CREATE PROCEDURE InsertTask
+    @ProjectID INT,
+    @Description NVARCHAR(255),
+    @StartDate DATE,
+    @EndDate DATE,
+    @Status NVARCHAR(20)
+AS
+BEGIN
+    INSERT INTO Tasks (ProjectID, Description, StartDate, EndDate, Status)
+    VALUES (@ProjectID, @Description, @StartDate, @EndDate, @Status);
+END;
+
+-- Obtener todas las tareas
+CREATE PROCEDURE GetAllTasks
+AS
+BEGIN
+    SELECT * FROM Tasks;
+END;
+
+-- Obtener una tarea por ID
+CREATE PROCEDURE GetTaskByID
+    @TaskID INT
+AS
+BEGIN
+    SELECT * FROM Tasks WHERE TaskID = @TaskID;
+END;
+
+-- Actualizar una tarea
+CREATE PROCEDURE UpdateTask
+    @TaskID INT,
+    @ProjectID INT,
+    @Description NVARCHAR(255),
+    @StartDate DATE,
+    @EndDate DATE,
+    @Status NVARCHAR(20)
+AS
+BEGIN
+    UPDATE Tasks
+    SET
+        ProjectID = @ProjectID,
+        Description = @Description,
+        StartDate = @StartDate,
+        EndDate = @EndDate,
+        Status = @Status
+    WHERE TaskID = @TaskID;
+END;
+
+-- Eliminar una tarea por ID
+CREATE PROCEDURE DeleteTask
+    @TaskID INT
+AS
+BEGIN
+    DELETE FROM Tasks WHERE TaskID = @TaskID;
+END;
+GO
+
+GO
+-- Insertar un nuevo comentario
+CREATE PROCEDURE InsertComment
+    @TaskID INT,
+    @UserID INT,
+    @CommentText NVARCHAR(MAX),
+    @CommentDate DATETIME
+AS
+BEGIN
+    INSERT INTO Comments (TaskID, UserID, CommentText, CommentDate)
+    VALUES (@TaskID, @UserID, @CommentText, @CommentDate);
+END;
+
+-- Obtener todos los comentarios
+CREATE PROCEDURE GetAllComments
+AS
+BEGIN
+    SELECT * FROM Comments;
+END;
+
+-- Obtener un comentario por ID
+CREATE PROCEDURE GetCommentByID
+    @CommentID INT
+AS
+BEGIN
+    SELECT * FROM Comments WHERE CommentID = @CommentID;
+END;
+
+-- Actualizar un comentario
+CREATE PROCEDURE UpdateComment
+    @CommentID INT,
+    @TaskID INT,
+    @UserID INT,
+    @CommentText NVARCHAR(MAX),
+    @CommentDate DATETIME
+AS
+BEGIN
+    UPDATE Comments
+    SET
+        TaskID = @TaskID,
+        UserID = @UserID,
+        CommentText = @CommentText,
+        CommentDate = @CommentDate
+    WHERE CommentID = @CommentID;
+END;
+
+-- Eliminar un comentario por ID
+CREATE PROCEDURE DeleteComment
+    @CommentID INT
+AS
+BEGIN
+    DELETE FROM Comments WHERE CommentID = @CommentID;
+END;
+
+
+-- Este es un ejemplo del procedimiento almacenado para verificar las credenciales del usuario
+CREATE PROCEDURE dbo.LoginUser
+    @Email NVARCHAR(255),
+    @Password NVARCHAR(255)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    -- Verificar si las credenciales son válidas
+    IF EXISTS (SELECT 1 FROM dbo.Users WHERE Email = @Email AND Password = @Password)
+    BEGIN
+        -- Si las credenciales son válidas, devolver el usuario
+        SELECT UserID, UserName, Email
+        FROM dbo.Users
+        WHERE Email = @Email;
+
+        -- Puedes agregar más columnas según sea necesario
+    END
+    ELSE
+    BEGIN
+        -- Si las credenciales no son válidas, devolver un mensaje
+        SELECT 'Credenciales incorrectas' AS ErrorMessage;
+    END
+END;
+
+CREATE PROCEDURE GetProjectsByUserId
+    @UserId INT
+AS
+BEGIN
+    SELECT 
+        ProjectID,
+        ProjectName,
+        StartDate,
+        EndDate,
+        Status
+    FROM Projects
+    WHERE CreatorUserID = @UserId;
+END;
+
+CREATE PROCEDURE GetTasksByProjectID
+    @ProjectID INT
+AS
+BEGIN
+    SELECT 
+        TaskID,
+        Description,
+        StartDate,
+        EndDate,
+        Status
+    FROM Tasks
+    WHERE ProjectID = @ProjectID;
+END;
+
+CREATE TABLE Bitacora (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Usuario NVARCHAR(255),
+    FechaHora DATETIME,
+    TipoOperacion NVARCHAR(50),
+    Descripcion NVARCHAR(MAX)
+);
+go
+
+CREATE TRIGGER trg_AuditarInsercionProject
+ON Projects
+AFTER INSERT
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'Inserción', 'Nuevo registro insertado en TuTabla.');
+END;
+go
+
+CREATE TRIGGER trg_AuditarEiminacionProject
+ON Projects
+AFTER DELETE
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'DELETE', ' registro elimado en TuTabla.');
+END;
+go
+CREATE TRIGGER trg_AuditarUpdateProject
+ON Projects
+AFTER update
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'UPDATE', ' registro actualizado en TuTabla.');
+END;
+
+------
+go
+CREATE TRIGGER trg_AuditarInsercionTasks
+ON Tasks
+AFTER INSERT
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'Inserción', 'Nuevo registro insertado en TuTabla.');
+END;
+go
+
+CREATE TRIGGER trg_AuditarEiminacionTasks
+ON Tasks
+AFTER DELETE
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'DELETE', ' registro elimado en TuTabla.');
+END;
+go
+CREATE TRIGGER trg_AuditarUpdateTasks
+ON Tasks
+AFTER update
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'UPDATE', ' registro actualizado en TuTabla.');
+END;
+
+----------
+go
+CREATE TRIGGER trg_AuditarInsercionComments
+ON Comments
+AFTER INSERT
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'Inserción', 'Nuevo registro insertado en TuTabla.');
+END;
+go
+
+CREATE TRIGGER trg_AuditarEiminacionComments
+ON Comments
+AFTER DELETE
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'DELETE', ' registro elimado en TuTabla.');
+END;
+go
+CREATE TRIGGER trg_AuditarUpdateComments
+ON Comments
+AFTER update
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'UPDATE', ' registro actualizado en TuTabla.');
+END;
+
+-------------
+
+go
+CREATE TRIGGER trg_AuditarInsercionUsers
+ON Users
+AFTER INSERT
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'Inserción', 'Nuevo registro insertado en TuTabla.');
+END;
+go
+
+CREATE TRIGGER trg_AuditarEiminacionUsers
+ON Users
+AFTER DELETE
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'DELETE', ' registro elimado en TuTabla.');
+END;
+go
+CREATE TRIGGER trg_AuditarUpdateUsers
+ON Users
+AFTER update
+AS
+BEGIN
+    INSERT INTO Bitacora (Usuario, FechaHora, TipoOperacion, Descripcion)
+    VALUES (SUSER_SNAME(), GETDATE(), 'UPDATE', ' registro actualizado en TuTabla.');
+END;
+
